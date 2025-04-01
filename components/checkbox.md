@@ -3,7 +3,7 @@ title: Checkbox
 ---
 # Checkbox
 
-![](/docs/checkbox.png)
+![](/assets/checkbox.png)
 
 ## Checkbox Properties
 
@@ -18,4 +18,4 @@ title: Checkbox
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)

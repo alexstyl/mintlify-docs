@@ -4,10 +4,10 @@ title: List
 
 # List
 
-Displays items from a [Data Source](/docs/building/data). Lists can display a large number of data effectively without
+Displays items from a [Data Source](/building/data). Lists can display a large number of data effectively without
 having to worry about the performance of your app.
 
-![](/list.png)
+![](/assets/list.png)
 
 ## The `Dynamic` component
 
@@ -15,7 +15,7 @@ Lists can contain a single child component, called `Dynamic`. Dynamic is a speci
 placeholder for every single row of your selected Google Sheet. Any change to the looks of the Dynamic component will
 reflect the changes on every single row of your list.
 
-Dynamic elements can also be used to show content from [your linked Google Sheet](/docs/building/data)
+Dynamic elements can also be used to show content from [your linked Google Sheet](/building/data)
 
 ### Displaying content from Google Sheets
 
@@ -23,7 +23,7 @@ Dynamic elements can also be used to show content from [your linked Google Sheet
 2. Scroll to the **Content** property and click on the <img class='docs-icon' src="/assets/sliders.svg"> icon.
 3. Select any column from your Google Sheet you want to be displayed.
 
-To see real data flowing into your app, make sure to [preview your app](/docs/building/app-preview).
+To see real data flowing into your app, make sure to [preview your app](/building/app-preview).
 
 ## Filtering Data
 
@@ -37,12 +37,12 @@ To show only part of your data into the List use the `Filter` property.
    choose "Category")
 4. Enter the text the column must include in the `Cell must contain text` property.
 
-That's it. To try out your filter, [preview your app](/docs/building/app-preview) and start typing into your search
+That's it. To try out your filter, [preview your app](/building/app-preview) and start typing into your search
 field.
 
 ### How to build a search filter
 
-1. Select the [Text Field](/docs/components/text-field) of your search.
+1. Select the [Text Field](/components/text-field) of your search.
 2. Scroll down to its `Tag` property and enter a tag, such as "Search field".
 3. Select your `List` and scroll to the `Filter` property.
 4. Select a `Text Filter`.
@@ -50,7 +50,7 @@ field.
    choose "Category")
 6. Click on the <img class='docs-icon' src="/assets/tags.svg"> icon and select your new tagged element "Search field".
 
-That's it. To try out your filter, [preview your app](/docs/building/app-preview) and start typing into your search
+That's it. To try out your filter, [preview your app](/building/app-preview) and start typing into your search
 field.
 
 ## List Properties
@@ -82,8 +82,8 @@ However, it enables its children to [show dynamic data from the linked Google Sh
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)
 
 ## Designing responsive screens
 
-[Learn more about Tablet Design](/docs/building/tablet-overrides)
+[Learn more about Tablet Design](/building/tablet-overrides)

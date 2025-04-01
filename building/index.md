@@ -9,7 +9,7 @@ Here is an overview of Paper's designer editor.
 
 ## Screen Canvas
 
-![](/docs/screen_canvas.png)
+![](/assets/screen_canvas.png)
 
 The Screen Canvas shows a real-time version of the current screen you are working on. Any changes you do to your screen
 will be reflected here.
@@ -17,7 +17,7 @@ will be reflected here.
 Selecting any element placed in the Canvas will bring up the [Properties Panel](#properties-panel) for that element.
 
 You can reorder elements in the Canvas by drag and drop to the desired spot. Elements can only be moved within the
-same [Stack](/docs/components/stack).
+same [Stack](/components/stack).
 
 You can move elements into different Stacks from the [Layers Panel](#layers-panel).
 
@@ -25,23 +25,23 @@ You can change the zoom level via the [Toolbar](#toolbar).
 
 ## Properties Panel
 
-![](/docs/properties_panel.png)
+![](/assets/properties_panel.png)
 
 The Properties Panel is where you style every aspect of a given element on the current screen.
 
 You can customize pretty much anything here, such as an element's background color, padding, corner radius, give it an
 elevation and much, much more.
 
-Every element has different properties you can customize. For example [Text](/docs/components/text)
-and [Text Field](/docs/components/text-field) have **Typography** related properties such as **Text Color** and **Max Lines**,
-while [Toggles](/docs/components/toggle) give you the option to **enable** them or disable them.
+Every element has different properties you can customize. For example [Text](/components/text)
+and [Text Field](/components/text-field) have **Typography** related properties such as **Text Color** and **Max Lines**,
+while [Toggles](/components/toggle) give you the option to **enable** them or disable them.
 
-[Browse all available components and their properties](/docs/components)
+[Browse all available components and their properties](/components)
 
 
 ## Layers Panel
 
-![](/docs/layers_view.png)
+![](/assets/layers_view.png)
 
 As your screen becomes more complex over time, it can get difficult to select specific elements. The Layers Panel
 gives you finer level access to your screen's element.
@@ -52,14 +52,14 @@ Every time you select an element in your screen from the [Screen Canvas](#screen
 
 ## Components Pallet
 
-![](/docs/components_pallete.png)
+![](/assets/components_pallete.png)
 
 The Components Pallet contains any element you can add to your screens 
 
 
 ## Screen Pallet
 
-![](/docs/screens_pallet.png)
+![](/assets/screens_pallet.png)
 
 Here you can see all screens of your app. The first screen marked with a <span class='button-secondary'>⭐️ Star</span> the Home screen of your app. 
 
@@ -69,7 +69,7 @@ To change your Home screen, move the desired screen to the top of the Screen Pal
 
 ## Toolbar
 
-![](/docs/toolbar.png)
+![](/assets/toolbar.png)
 
 The toolbar contains app-wide actions:
 
@@ -87,7 +87,7 @@ The toolbar contains app-wide actions:
 <span class='button-secondary p-1'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <path d="m9.06 11.9 8.07-8.06a2.85 2.85 0 1 1 4.03 4.03l-8.06 8.08" />
   <path d="M7.07 14.94c-1.66 0-3 1.35-3 3.02 0 1.33-2.5 1.52-2 2.02 1.08 1.1 2.49 2.02 4 2.02 2.2 0 4-1.8 4-4.04a3.01 3.01 0 0 0-3-3.02z" />
-</svg></span> Brings up the [Theme Panel](/docs/building/theming)
+</svg></span> Brings up the [Theme Panel](/building/theming)
 
 <span class='button-secondary p-1'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <path d="M12 20a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z" />

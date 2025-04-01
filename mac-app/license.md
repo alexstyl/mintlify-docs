@@ -9,7 +9,7 @@ In the Paper Mac app click the Paper icon in the top left corner, and then selec
 
 Enter your license key and click **Activate License**.
 
-![manage_license.png](/docs/manage_license.png)
+![manage_license.png](/assets/manage_license.png)
 
 
 ## How to find my license?

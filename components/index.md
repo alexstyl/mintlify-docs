@@ -7,10 +7,10 @@ description: Discover all available components for your apps.
 
 Screens in Paper consist of **Components**. You can think of Components like building blocks.
 
-There are simple Components such as [Text](/docs/components/text) and [Image](/docs/components/image) that display a
+There are simple Components such as [Text](/components/text) and [Image](/components/image) that display a
 simple piece of information.
 
-A [Stack](/docs/components/stack) can hold multiple components.
+A [Stack](/components/stack) can hold multiple components.
 
 You can build richer components by combining multiple components together.
 
@@ -51,4 +51,4 @@ Here is a list of all properties that can be set to all components in a screen:
 On top of the [Default Properties](#default-properties) every component has its own specific properties.
 
 Find out about each component's unique properties by selecting one from the list, such
-as [Stack](/docs/components/stack) and [Buttons](/docs/components/buttons)
+as [Stack](/components/stack) and [Buttons](/components/buttons)

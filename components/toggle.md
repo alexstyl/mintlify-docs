@@ -7,7 +7,7 @@ description: Toggle switches are digital on/off switches.
 
 Toggle switches are digital on/off switches.
 
-![](/docs/toggle.png)
+![](/assets/toggle.png)
 
 ## Toggle Properties
 
@@ -22,4 +22,4 @@ Toggle switches are digital on/off switches.
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)

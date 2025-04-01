@@ -3,7 +3,7 @@ title: Search Bar
 ---
 # Search Bar
 
-![](/docs/search-bar.png)
+![](/assets/search-bar.png)
 
 
 
@@ -12,4 +12,4 @@ title: Search Bar
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)

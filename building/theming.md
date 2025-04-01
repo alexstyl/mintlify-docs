@@ -9,7 +9,7 @@ A **theme** in Paper is used to ensure consistency across your app without the n
 
 ## Theme Panel
 
-![](/docs/theme_panel.png)
+![](/assets/theme_panel.png)
 
 The Theme Panel is the place where you can customize the colors and corner radius of components used in your app. 
 
@@ -52,7 +52,7 @@ Text styles define how text should appear across the app. This includes properti
 
 ### How to update your text styles
 
-![](/docs/text_styles.png)
+![](/assets/text_styles.png)
 
 Select any text your want to apply the text styles to. Then from the Properties Panel, scroll to the **Typography** properties and choose the style you want.
 
@@ -60,5 +60,5 @@ Any change you do will automatically update the current style.
 
 ## Styled Components
 
-Components such as [Buttons](/docs/components/buttons) and [Cards](/docs/components/card) already use the theme you define. This means that when you update your theme, the appearance of these components will automatically adjust to reflect the new colors, corner radius, and text styles. This integration allows you to quickly change the look of your app without needing to manually update each component individually.
+Components such as [Buttons](/components/buttons) and [Cards](/components/card) already use the theme you define. This means that when you update your theme, the appearance of these components will automatically adjust to reflect the new colors, corner radius, and text styles. This integration allows you to quickly change the look of your app without needing to manually update each component individually.
 

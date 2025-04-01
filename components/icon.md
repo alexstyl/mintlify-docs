@@ -4,7 +4,7 @@ title: Icon
 
 # Icon
 
-![](/docs/icon.png)
+![](/assets/icon.png)
 
 Displays an icon from the <a href='https://composeicons.com/icon-libraries/lucide' target='_blank'>Lucide</a> icon pack.
 
@@ -22,4 +22,4 @@ Displays an icon from the <a href='https://composeicons.com/icon-libraries/lucid
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)

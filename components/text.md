@@ -12,7 +12,7 @@ Displays a piece of text on the screen.
 
 |                    |                                                             |
 |--------------------|-------------------------------------------------------------|
-| **Style**          | The text style of the [app's theme](/docs/building/theming) |
+| **Style**          | The text style of the [app's theme](/building/theming) |
 | **Text Color**     | The color of the text.                                      |
 | **Font Weight**    | The thickness of the font                                   |
 | **Font Size**      | The size of the text.                                       |
@@ -23,4 +23,4 @@ Displays a piece of text on the screen.
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)

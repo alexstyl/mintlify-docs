@@ -4,7 +4,7 @@ title: Progress Bar
 
 # Progress Bar
 
-![](/docs/progress-bar.png)
+![](/assets/progress-bar.png)
 
 ## Progress Bar Properties
 
@@ -18,4 +18,4 @@ title: Progress Bar
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)

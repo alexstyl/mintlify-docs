@@ -8,7 +8,7 @@ Stack are one of core components in Paper and they are truly powerful. They are 
 vertical lists, grids of any items and scrollable lists.
 
 They are also the core component when it comes to responsive design
-using [Tablet Overrides](/docs/building/tablet-overrides).
+using [Tablet Overrides](/building/tablet-overrides).
 
 Stacks display nothing by default (unless you specify a property such as a background color).
 
@@ -43,4 +43,4 @@ Stacks can place their items one next to each other (horizontally or vertically)
 | **Items per Column/Row** | (Requires Lazy Loading or Wrap) How many items fit in each column or row of the Stack. |
 | **Scroll Direction**     | The direction in which you can scroll within the Stack.                                        |
 
-[Learn more about Tablet Design](/docs/building/tablet-overrides)
+[Learn more about Tablet Design](/building/tablet-overrides)

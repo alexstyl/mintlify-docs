@@ -5,7 +5,7 @@ title: Slider
 
 
 
-![](/docs/slider.png)
+![](/assets/slider.png)
 
 ## Slider Properties
 
@@ -18,4 +18,4 @@ title: Slider
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/docs/components)
+[Explore the full list of default properties](/components)
