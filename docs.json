@@ -13,8 +13,8 @@
       {"group": "Getting Started", "pages": ["get-started"]},
       {"group": "Building", "pages": ["building/index", "building/theming", "building/tablet-overrides"]},
       {"group": "Components", "pages": ["get-started"]},
-      {"group": "Mac app", "pages": ["get-started"]},
-      {"group": "Support", "pages": ["get-started"]}
+      {"group": "Mac app", "pages": ["mac-app/index,","mac-app/license,"]},
+      {"group": "Support", "pages": ["support/index"]}
     ]
   },
   "logo": {
