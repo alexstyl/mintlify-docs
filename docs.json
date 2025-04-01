@@ -13,6 +13,7 @@
       {
         "group": "Getting Started",
         "pages": [
+          "building/quick-start",
           "building/theming",
           "building/tablet-overrides"
         ]
@@ -39,7 +40,7 @@
       {
         "group": "Mac app",
         "pages": [
-          "mac-app/index",
+          "mac-app/how-to-install",
           "mac-app/license"
         ]
       },
