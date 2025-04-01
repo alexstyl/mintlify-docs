@@ -10,11 +10,58 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
-      {"group": "Getting Started", "pages": ["get-started"]},
-      {"group": "Building", "pages": ["building/index", "building/theming", "building/tablet-overrides"]},
-      {"group": "Components", "pages": ["get-started"]},
-      {"group": "Mac app", "pages": ["mac-app/index,","mac-app/license,"]},
-      {"group": "Support", "pages": ["support/index"]}
+      {
+        "group": "Getting Started",
+        "pages": [
+          "get-started"
+        ]
+      },
+      {
+        "group": "Building",
+        "pages": [
+          "building/index",
+          "building/theming",
+          "building/tablet-overrides"
+        ]
+      },
+      {
+        "group": "Components",
+        "pages": [
+          "components/index",
+          "components/bottom-navigation",
+          "components/buttons",
+          "components/card",
+          "components/checkbox",
+          "components/divider",
+          "components/grid",
+          "components/icon",
+          "components/image",
+          "components/list",
+          "components/progress-bar",
+          "components/radio-button",
+          "components/search-bar",
+          "components/slider",
+          "components/space",
+          "components/stack",
+          "components/text",
+          "components/text-field",
+          "components/toggle",
+          "components/top-app-bar"
+        ]
+      },
+      {
+        "group": "Mac app",
+        "pages": [
+          "mac-app/index,",
+          "mac-app/license,"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "support/index"
+        ]
+      }
     ]
   },
   "logo": {
