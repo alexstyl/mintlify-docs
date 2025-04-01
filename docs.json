@@ -33,7 +33,6 @@
           "components/stack",
           "components/text",
           "components/text-field",
-          "components/toggle",
           "components/top-app-bar"
         ]
       },
