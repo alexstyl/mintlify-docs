@@ -3,18 +3,9 @@ title: Documentation
 description: Learn how to use Paper and find answers to your questions.
 ---
 
-
 # Get started
 
 Here is the fastest way to build modern looking apps in no time using Paper:
-
-## Pick an app template or start from scratch
-
-App templates are a bundle of pre-built screens with a lot of work done out of the box, which you can customize as you like.
-
-You can always build a new app from scratch, but using a template is the fastest way.
-
-[Pick a starting point or start from scratch](/build) to start your new app.
 
 ## Change your app's branding with Themes
 
