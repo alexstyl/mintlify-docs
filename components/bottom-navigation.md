@@ -3,7 +3,7 @@ title: Bottom Navigation
 ---
 # Bottom Navigation
 
-![](/bottom-navigation.png)
+![](/assets/bottom-navigation.png)
 
 ## Default Properties
 
