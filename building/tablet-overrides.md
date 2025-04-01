@@ -1,0 +1,39 @@
+---
+title: Tablet Overrides
+description: Learn how to make your app shine on tablet devices.
+---
+
+# Tablet Overrides (responsive design)
+
+Tablet overrides are special properties that are only applied when a specific component is displayed on Tablets.
+
+<video class="rounded-xl object-cover border w-full" autoplay loop muted playsinline controls>
+  <source src="/docs/responsive.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+This is what enables your app to look great on both Phones and Tablets.
+
+Here is an example of making a [Stack](/docs/components/stack) be horizontal while on Tablets, while remain
+vertical on Phones.
+
+## 1. Select the element you want to customize on Tablets
+
+You can do so either in the [Screen Canvas](/docs/building#screen-canvas) or the [Layers Panel](/docs/building#layers-panel)
+
+![](/docs/responsive_1.png)
+
+## 2. In the Properties Panel, scroll down to `Tablet Overrides` and click it
+ 
+
+![](/docs/responsive_2.png)
+
+## 3.Change the property you want to update on Tablets
+
+![](/docs/responsive_3.png)
+
+For our example, we changed the **Orientation** property to be **Horizontal**
+
+That's all. The override will only be applied on tablets.
+

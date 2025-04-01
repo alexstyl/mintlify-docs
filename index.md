@@ -1,0 +1,49 @@
+---
+title: Documentation
+description: Learn how to use Paper and find answers to your questions.
+---
+
+
+# Get started
+
+Here is the fastest way to build modern looking apps in no time using Paper:
+
+## Pick an app template or start from scratch
+
+App templates are a bundle of pre-built screens with a lot of work done out of the box, which you can customize as you like.
+
+You can always build a new app from scratch, but using a template is the fastest way.
+
+[Pick a starting point or start from scratch](/build) to start your new app.
+
+## Change your app's branding with Themes
+
+Click the <img class='button-secondary p-1 m-0 inline' src="/assets/themes.svg"> button to bring up the Theme Panel. 
+
+Here you can change the look and feel of your app. All components such as Cards' and Buttons' looks will be updated automatically across your app.
+
+The most important properties you need to know about are:
+
+- Primary Color
+- On Primary Color
+- Surface Color
+- On Surface Color
+- Background Color
+- On Background Color
+
+<div class="rounded p-4 card bg-green-100">You can always style every single element in your app independently of your theme</div> 
+
+## Customize everything visually
+
+Tap on any component in your screen's layout to modify it. The **Properties Panel** will pop up.
+
+Here you can customize anything in the selected component, from background colors, to the content (such as text and icons) and so on.
+
+## Export your code with one click
+
+When you’re done, click the <span class='button-primary m-0 p-1'>Export</span> button to get the full source code of your app. 
+You can then import it directly on Android Studio or IntelliJ IDEA. 
+
+---
+
+👏 Congrats. You now know how to build and modern apps using Paper.

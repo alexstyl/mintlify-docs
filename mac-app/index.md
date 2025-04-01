@@ -1,0 +1,26 @@
+---
+title: How to install the Paper Mac App
+description: "" 
+---
+
+# How to install the Paper Mac App
+
+## How to fix "Paper" Not Opened error
+
+We are currently waiting for Apple to approve our Apple Developer account.
+
+Until then, you might see a warning when you try to run the Mac App.
+
+![](/docs/mac_1.png)
+
+To fix this error head over to **System Settings** -> **Privacy & Security** like the screenshot below.
+
+Then find the item `"Paper" was blocked to protect your Mac.` and click **Open Anyway**.
+
+![](/docs/mac_2.png)
+
+That's all. Now you can run Paper on your Mac.
+
+### Read next
+
+- [How to activate your Paper Mac License)](/docs/mac-app/license)
