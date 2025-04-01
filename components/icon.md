@@ -22,4 +22,4 @@ Displays an icon from the <a href='https://composeicons.com/icon-libraries/lucid
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/components)
+[Explore the full list of default properties](/components/index)

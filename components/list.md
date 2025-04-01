@@ -82,7 +82,7 @@ However, it enables its children to [show dynamic data from the linked Google Sh
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/components)
+[Explore the full list of default properties](/components/index)
 
 ## Designing responsive screens
 

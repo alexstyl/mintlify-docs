@@ -83,7 +83,7 @@ to [show dynamic data from the linked Google Sheet](#displaying-content-from-goo
 
 Every component has a set of default properties on top of their specific ones.
 
-[Explore the full list of default properties](/components)
+[Explore the full list of default properties](/components/index)
 
 ## Designing responsive Screens
 
