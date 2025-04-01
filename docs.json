@@ -13,7 +13,7 @@
       {
         "group": "Getting Started",
         "pages": [
-          "building/index",
+          "building/quick-start",
           "building/theming",
           "building/tablet-overrides"
         ]
