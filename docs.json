@@ -4,8 +4,8 @@
   "name": "Paper",
   "colors": {
     "primary": "#0D99FF",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#0D99FF",
+    "dark": "#0D99FF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
