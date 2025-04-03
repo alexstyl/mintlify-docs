@@ -2,9 +2,7 @@
 title: Stack
 ---
 
-# Stack
-
-Stack are one of core components in Paper and they are truly powerful. They are used to create horizontal and
+Stack is one of core components in Paper and they are truly powerful. They are used to create horizontal and
 vertical lists, grids of any items and scrollable lists.
 
 They are also the core component when it comes to responsive design

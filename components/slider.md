@@ -1,9 +1,6 @@
 ---
 title: Slider
 ---
-# Slider
-
-
 
 ![](/assets/slider.png)
 

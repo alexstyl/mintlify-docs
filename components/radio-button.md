@@ -2,8 +2,6 @@
 title: Radio Button
 ---
 
-# Radio Button
-
 ![](/assets/radio-button.png)
 
 ## Radio Button Properties

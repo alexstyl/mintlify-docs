@@ -2,8 +2,6 @@
 title: Progress Bar
 ---
 
-# Progress Bar
-
 ![](/assets/progress-bar.png)
 
 ## Progress Bar Properties

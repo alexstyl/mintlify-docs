@@ -3,8 +3,6 @@ title: Toggle (Switch)
 description: Toggle switches are digital on/off switches.
 ---
 
-# Toggle (Switch)
-
 Toggle switches are digital on/off switches.
 
 ![](/assets/toggle.png)

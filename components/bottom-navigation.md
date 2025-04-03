@@ -1,7 +1,6 @@
 ---
 title: Bottom Navigation
 ---
-# Bottom Navigation
 
 ![](/assets/bottom-navigation.png)
 

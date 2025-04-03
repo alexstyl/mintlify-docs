@@ -3,8 +3,6 @@ title: Components
 description: Discover all available components for your apps. 
 ---
 
-# Components
-
 Screens in Paper consist of **Components**. You can think of Components like building blocks.
 
 There are simple Components such as [Text](/components/text) and [Image](/components/image) that display a

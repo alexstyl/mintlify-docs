@@ -2,8 +2,6 @@
 title: Space
 ---
 
-# Space
-
 Adds a space within a Stack.
 
 ## Default Properties

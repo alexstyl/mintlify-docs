@@ -2,8 +2,6 @@
 title: Text Field
 ---
 
-# Text Field
-
 A text field in which the user can type text in.
 
 ## Text Field Properties

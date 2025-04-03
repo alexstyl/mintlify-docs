@@ -2,8 +2,6 @@
 title: Text
 ---
 
-# Text
-
 Displays a piece of text on the screen.
 
 ## Text Properties

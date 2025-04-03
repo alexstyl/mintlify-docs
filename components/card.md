@@ -1,7 +1,6 @@
 ---
 title: Card
 ---
-# Card
 
 Cards are used to show grouped piece of information on a screen.
 

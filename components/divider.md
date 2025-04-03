@@ -2,7 +2,6 @@
 title: Divider
 ---
 
-# Divider
 
 A divider separates pieces of content in order to make the visual hierarchy clearer.
 

@@ -2,8 +2,6 @@
 title: Image
 ---
 
-# Image
-
 Displays an image.
 
 ## Image Properties

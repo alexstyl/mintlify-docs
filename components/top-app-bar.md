@@ -2,8 +2,6 @@
 title: Top App Bar
 ---
 
-# Top App Bar
-
 ![](/assets/top-app-bar.png)
 
 ## Default Properties

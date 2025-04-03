@@ -1,7 +1,6 @@
 ---
 title: Search Bar
 ---
-# Search Bar
 
 ![](/assets/search-bar.png)
 

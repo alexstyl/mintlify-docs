@@ -1,7 +1,6 @@
 ---
 title: Checkbox
 ---
-# Checkbox
 
 ![](/assets/checkbox.png)
 

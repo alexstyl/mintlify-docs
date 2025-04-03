@@ -2,8 +2,6 @@
 title: Icon
 ---
 
-# Icon
-
 ![](/assets/icon.png)
 
 Displays an icon from the <a href='https://composeicons.com/icon-libraries/lucide' target='_blank'>Lucide</a> icon pack.

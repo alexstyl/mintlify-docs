@@ -1,7 +1,6 @@
 ---
 title: Buttons
 ---
-# Buttons
 
 Buttons communicate actions that users can take in a given screen. 
 
