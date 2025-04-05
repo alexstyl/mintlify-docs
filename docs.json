@@ -38,9 +38,9 @@
         ]
       },
       {
-        "group": "Mac app",
+        "group": "App",
         "pages": [
-          "app/how-to-install",
+          "app/mac",
           "app/license"
         ]
       },
