@@ -40,8 +40,8 @@
       {
         "group": "Mac app",
         "pages": [
-          "mac-app/how-to-install",
-          "mac-app/license"
+          "app/how-to-install",
+          "app/license"
         ]
       },
       {
